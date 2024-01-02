@@ -23,7 +23,7 @@ Javascripts
 Topics
 - map function
 - filter method
-- Difference between console dir and console log
+- Difference between console dir and console logs
 - DOM manipulation
 - queryselector
 

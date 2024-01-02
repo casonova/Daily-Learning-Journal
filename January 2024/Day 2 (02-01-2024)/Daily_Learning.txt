@@ -1,0 +1,18 @@
+01-01-2024
+Python
+- Bitwise Operators
+- Membership Operators
+- Interview QUestions
+
+Javascripts
+- DOM
+- Events 
+- Prototypes
+- Classes and objects
+- Error Handling
+- Sync in JS
+- Callback Hell
+- Promises
+
+Questions
+- what is event listener in javascript
