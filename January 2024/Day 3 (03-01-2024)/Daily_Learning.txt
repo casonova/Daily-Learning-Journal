@@ -1,0 +1,15 @@
+03-01-2024
+
+Python
+- Identify Operator
+- Operator Precedence and Associativity
+- OOP code
+- Interview Question
+
+Javascript
+- Promise
+- Promise Chaining
+- Async Await
+- Fetch API
+- Made Currency Converter using JS Concepts
+
