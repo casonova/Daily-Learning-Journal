@@ -1,0 +1,27 @@
+05-01-2024
+Javascript
+- TextContent (DOM Property)
+- Javascript Hoisting
+- Scope (Global Scope, Function Scope, Block Scope)
+- Type Casting
+- Type coercion
+- Type conversion
+- Indexed Collections
+- join method in array
+- Typed array
+- Keyed Collections
+- Map and Sets
+- Labeled Statement
+- Bind method in function
+- Lexical Scoping
+- This keyword
+- Class Inheritance
+
+Topics to see 
+- DOM in Javascript
+- Async and Await in Javascript
+- Iterators and Generators in Javascript
+- Events in javascript
+
+
+
