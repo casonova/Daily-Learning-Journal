@@ -1,0 +1,27 @@
+08-01-2024
+Python 
+- Implicit Type conversion
+- Make oop code for Pokemon mini project
+- Interview questions
+
+React
+Hooks
+- useState
+- useEffect
+- useRef
+- useContext
+- useMemo
+- useReducer
+- useCallback
+
+Design Pattern
+Creational Pattern
+- Factory method
+
+Topic to see
+- Enumerate
+- List Comprehension
+- vite in react
+
+
+
