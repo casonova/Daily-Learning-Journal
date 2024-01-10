@@ -1,0 +1,13 @@
+09-01-2024
+Python
+- Print Statement
+- OOP Code
+- Interview Questions
+
+React
+Routers
+
+Topic to see
+- What is dunder Method
+- What are fragments in react
+
